@@ -1,0 +1,49 @@
+.main {
+    background-color: #dff6ff; 
+    border: 2px dashed #1f4d7a;
+    padding: 20px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.student-name {
+    color: #8b3d3d;
+    font-size: 32px; 
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.student-id,
+.programme,
+.short-description {
+    color: #2f4f4f;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 8px 0;
+}
+
+.student-id {
+    color: #3d5a80;
+}
+
+.programme {
+    color: #5b2c6f;
+}
+
+.short-description {
+    color: rosybrown;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.description {
+    color: rosybrown;
+    font-weight: 200;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
